@@ -1,3 +1,5 @@
+""" 연산자 """
+
 width = 3
 height = 5
 RectArea = width * height

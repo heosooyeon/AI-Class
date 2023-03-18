@@ -1,3 +1,5 @@
+""" 이미지 확인하기 """
+
 import cv2 as cv
 import sys
 
