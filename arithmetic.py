@@ -1,4 +1,4 @@
-### 산술 및 논리 연산 ###
+""" 산술 및 논리 연산 """
 import cv2 as cv
 from matplotlib import pyplot as plt
 
